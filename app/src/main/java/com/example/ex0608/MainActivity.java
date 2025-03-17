@@ -44,15 +44,7 @@ LinearLayout lL2, lL3;
         tV2down = findViewById(R.id.tV2down);
         tV3up = findViewById(R.id.tV3up);
         tV3down = findViewById(R.id.tV3down);
-        eT1 = findViewById(R.id.eT1);
-        eT2 = findViewById(R.id.eT2);
-        eT3 = findViewById(R.id.eT3);
-        iV1 = findViewById(R.id.iV1);
-        iV2 = findViewById(R.id.iV2);
-        iV3 = findViewById(R.id.iV3);
         btnNew = findViewById(R.id.btnNew);
-        lL2 = findViewById(R.id.lL2);
-        lL3 = findViewById(R.id.lL3);
         lL2.setVisibility(View.GONE);
         lL3.setVisibility(View.GONE);
     }
